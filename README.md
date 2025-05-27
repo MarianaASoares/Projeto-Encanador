@@ -19,5 +19,8 @@
   <li><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></li>
  </ul>
 
+ <h2>:white_check_mark:Confira abaixo a landing page dos Encanadores Mario:</h2>
+ <a href="https://marianaasoares.github.io/projeto-encanadores/">Clique aqui!</a>
+
 
 
