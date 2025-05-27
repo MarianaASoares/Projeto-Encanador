@@ -1,5 +1,5 @@
 <h1>:wrench:Irmãos Mario Encanadores</h1>
-<p>Bem-vindo(a) ao repositório do site “Irmãos Mario Encanadores”, uma landing page moderna e funcional feita para apresentar os serviços dos famosos encanadores, com foco em acessibilidade, design responsivo e interação com o usuário.</p>
+<p>Bem-vindo(a) ao repositório do site “Irmãos Mario Encanadores”, uma landing page moderna e funcional feita para apresentar os serviços dos famosos encanadores, com foco em acessibilidade, design responsivo e interação com o usuário.Desenvolvido durante meus estudos no DevClub.</p>
 
 <h2> :globe_with_meridians:Funcionalidades</h2>
   <p> :pager:Menu de navegação - Fácil acesso às seções do site.</p>
