@@ -20,7 +20,7 @@
  </ul>
 
  <h2>:white_check_mark:Confira abaixo a landing page dos Encanadores Mario:</h2>
- <a href="https://marianaasoares.github.io/projeto-encanadores/">Clique aqui!</a>
+ <a target:_blank href="https://marianaasoares.github.io/projeto-encanadores/">Clique aqui!</a>
 
 
 
